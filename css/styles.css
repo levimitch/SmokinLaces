@@ -1,0 +1,82 @@
+body {
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+div {
+  margin: 0;
+}
+h1 {
+  font-size: 5rem;
+  font-family: 'Sacramento', cursive;
+  margin: 30px auto 30px auto;
+}
+
+h2 {
+  margin: 5 auto 5 auto;
+  font-family: 'Montserrat', serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+a{
+  text-decoration: none;
+  margin: 10px 20px;
+  font-family: 'Montserrat', serif;
+  color:#11999E;
+  font-weight: bold;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+hr{
+  border: none;
+  border-top: 8px dotted;
+  color: grey;
+  margin: 10px auto 0;
+  width: 20%;
+}
+
+.title_head{
+  width: 40%;
+  margin: 0 250px 0 0;
+  float: right;
+}
+
+.top_logo{
+}
+
+.topcontainer{
+  background-color: #EAF6F6;
+  padding: 20px 0;
+  margin: 0 auto;
+}
+.logotitlecontainer{
+  height = 250px;
+}
+.about_uscontainer{
+  clear: both;
+}
+
+.mid1container{
+  margin: 30px auto;
+}
+
+.bottomcontainer{
+  background-color: #66BFBF;
+  color: #EAF6F6;
+}
+
+.run_shot{
+  width = 25%;
+  border-radius: 10%;
+  margin: 10px auto;
+}
+
+#strava_club_header:hover{
+  color:black;
+}
